@@ -1,0 +1,4 @@
+configparser == 7.1.0
+customtkinter == 5.2.2 
+pillow  == 11.0.0
+os
